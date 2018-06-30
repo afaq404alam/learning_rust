@@ -1,0 +1,6 @@
+[package]
+name = "learning_rust"
+version = "0.1.0"
+authors = ["afaq404alam <afaq404alam@gmail.com>"]
+
+[dependencies]
